@@ -10,6 +10,7 @@
         <p class="text-2xl font-semibold text-white">Em1dio</p>
       </div>
       <div class="flex gap-4">
+        <p class="text-2xl font-semibold text-white">!podcast</p>
         <p class="text-2xl font-semibold text-white">!discord</p>
       </div>
     </div>
