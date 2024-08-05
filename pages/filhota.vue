@@ -55,10 +55,4 @@
 
 <script setup lang="ts">
 
-const loveThings = ref([
-    { name: 'Lasagna', img: '/assets/img/lasagna.jpeg' },
-    { name: 'Catnip', img: '/assets/img/catnip.png' },
-    { name: 'laser', img: '/assets/img/lasercat.png' },
-]);
-
 </script>
