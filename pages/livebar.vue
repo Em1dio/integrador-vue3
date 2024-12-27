@@ -1,5 +1,5 @@
 <template>
-  <div class="w-screen bg-[#f1652a] h-12">
+  <div class="w-screen bg-[#47145c] h-12">
     <div class="px-10 h-full flex items-center gap-4 justify-between">
       <div class="flex items-center gap-4">
         <div
@@ -10,7 +10,6 @@
         <p class="text-2xl font-semibold text-white">Em1dio</p>
       </div>
       <div class="flex gap-4">
-        <p class="text-2xl font-semibold text-white">!podcast</p>
         <p class="text-2xl font-semibold text-white">!discord</p>
       </div>
     </div>
